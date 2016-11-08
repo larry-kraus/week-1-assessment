@@ -1,42 +1,43 @@
+/* applies to entire body  */
 body {
 	width: 1000px;
 	font-family: Roboto;
 }
-
+/* section with two phones on left  */
 .section1 {
 	float: left;
 	margin-left: 200px;
 	margin-top: 100px;
 }
-
+/* top right section with IG logo and login button  */
 .section2 {
 	display: inline-block;
 	float: right;
 	margin-top: 110px;
 }
-
+/* middle right section with majority of text  */
 .section3 {
 	float: right;
 	width: 320px;
 }
-
+/* bottom left section with app store buttons  */
 .section4 {
 	float: right;
 	margin-top: 15px;
 }
-
+/* navbar  */
 footer {
 	clear: both;
 	height: 20px;
 }
-
+/* content in bottom navbar  */
 ul {
 	list-style-type: none; 
 	display: inline;
 	text-align: center;
 	text-transform: uppercase;
 }
-
+/* blue login button  */
 .blueButton {
 	height: 40px;
 	width: 120px;
